@@ -1,0 +1,299 @@
+%!Adobe-FontList 1.25
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BritannicBold
+FamilyName:Britannic Bold
+StyleName:Regular
+FullName:Britannic Bold
+MenuName:Britannic Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Starl\OneDrive\Documents\GitHub\chloeeanesportfolio.github.io\assets\downloads\CEanes_AVT110_DL_05_ID_FINAL_FIXED Folder\Document fonts\BRITANIC.TTF
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:40728
+FileModTime:1740134482
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Britannic Bold
+NameArray:0,Win,1,Britannic Bold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CooperBlack
+FamilyName:Cooper Black
+StyleName:Regular
+FullName:Cooper Black
+MenuName:Cooper Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Starl\OneDrive\Documents\GitHub\chloeeanesportfolio.github.io\assets\downloads\CEanes_AVT110_DL_05_ID_FINAL_FIXED Folder\Document fonts\COOPBL.TTF
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:80388
+FileModTime:1740134482
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Cooper Black
+NameArray:0,Win,1,Cooper Black
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FranklinGothic-Heavy
+FamilyName:Franklin Gothic Heavy
+StyleName:Regular
+FullName:Franklin Gothic Heavy
+MenuName:Franklin Gothic Heavy
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Starl\OneDrive\Documents\GitHub\chloeeanesportfolio.github.io\assets\downloads\CEanes_AVT110_DL_05_ID_FINAL_FIXED Folder\Document fonts\FRAHV.TTF
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:139400
+FileModTime:1740134482
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Franklin Gothic Heavy
+NameArray:0,Win,1,Franklin Gothic Heavy
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CenturyGothic
+FamilyName:Century Gothic
+StyleName:Regular
+FullName:Century Gothic
+MenuName:Century Gothic
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Starl\OneDrive\Documents\GitHub\chloeeanesportfolio.github.io\assets\downloads\CEanes_AVT110_DL_05_ID_FINAL_FIXED Folder\Document fonts\GOTHIC.TTF
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:137568
+FileModTime:1740134483
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Century Gothic
+NameArray:0,Win,1,Century Gothic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CenturyGothic-Bold
+FamilyName:Century Gothic
+StyleName:Bold
+FullName:Century Gothic Bold
+MenuName:Century Gothic
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Starl\OneDrive\Documents\GitHub\chloeeanesportfolio.github.io\assets\downloads\CEanes_AVT110_DL_05_ID_FINAL_FIXED Folder\Document fonts\GOTHICB.TTF
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:129676
+FileModTime:1740134483
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Century Gothic Bold
+NameArray:0,Win,1,Century Gothic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Bold
+FamilyName:Myriad Pro
+StyleName:Bold
+FullName:Myriad Pro Bold
+MenuName:Myriad Pro
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Starl\OneDrive\Documents\GitHub\chloeeanesportfolio.github.io\assets\downloads\CEanes_AVT110_DL_05_ID_FINAL_FIXED Folder\Document fonts\MyriadPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:97124
+FileModTime:1770245196
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Myriad Pro Bold
+NameArray:0,Win,1,Myriad Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Regular
+FamilyName:Myriad Pro
+StyleName:Regular
+FullName:Myriad Pro
+MenuName:Myriad Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Starl\OneDrive\Documents\GitHub\chloeeanesportfolio.github.io\assets\downloads\CEanes_AVT110_DL_05_ID_FINAL_FIXED Folder\Document fonts\MyriadPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:97072
+FileModTime:1770245196
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Myriad Pro
+NameArray:0,Win,1,Myriad Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadVariableConcept-Roman
+FamilyName:Myriad Variable Concept
+StyleName:Roman
+FullName:Myriad Variable Concept Roman
+MenuName:Myriad Variable Concept
+FamilyPrefix:MyriadConceptRoman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Starl\OneDrive\Documents\GitHub\chloeeanesportfolio.github.io\assets\downloads\CEanes_AVT110_DL_05_ID_FINAL_FIXED Folder\Document fonts\MyriadVariableConcept-Roman.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:CFF2VariableFont
+FileLength:68856
+FileModTime:1770245196
+WeightClass:300
+WidthClass:3
+AngleClass:0
+NameArray:0,Win,1,Myriad Variable Concept
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Calibri
+FamilyName:Calibri
+StyleName:Regular
+FullName:Calibri
+MenuName:Calibri
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Starl\OneDrive\Documents\GitHub\chloeeanesportfolio.github.io\assets\downloads\CEanes_AVT110_DL_05_ID_FINAL_FIXED Folder\Document fonts\calibri.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1650632
+FileModTime:1771272006
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Calibri
+NameArray:0,Win,1,Calibri
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Calibri-Bold
+FamilyName:Calibri
+StyleName:Bold
+FullName:Calibri Bold
+MenuName:Calibri
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Starl\OneDrive\Documents\GitHub\chloeeanesportfolio.github.io\assets\downloads\CEanes_AVT110_DL_05_ID_FINAL_FIXED Folder\Document fonts\calibrib.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1615616
+FileModTime:1771272006
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Calibri Bold
+NameArray:0,Win,1,Calibri
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Corbel-Bold
+FamilyName:Corbel
+StyleName:Bold
+FullName:Corbel Bold
+MenuName:Corbel
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Starl\OneDrive\Documents\GitHub\chloeeanesportfolio.github.io\assets\downloads\CEanes_AVT110_DL_05_ID_FINAL_FIXED Folder\Document fonts\corbelb.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:290908
+FileModTime:1711956159
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Corbel Bold
+NameArray:0,Win,1,Corbel
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Corbel-BoldItalic
+FamilyName:Corbel
+StyleName:Bold Italic
+FullName:Corbel Bold Italic
+MenuName:Corbel
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\Starl\OneDrive\Documents\GitHub\chloeeanesportfolio.github.io\assets\downloads\CEanes_AVT110_DL_05_ID_FINAL_FIXED Folder\Document fonts\corbelz.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:294692
+FileModTime:1711956162
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Corbel Bold Italic
+NameArray:0,Win,1,Corbel
+%EndFont
+
